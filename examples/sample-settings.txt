@@ -1,5 +1,7 @@
 # Sample Settings for MT5 Risk Manager EA
 
+# This configuration is a balanced setup for moderate risk trading
+
 # Risk Configuration
 Risk_Percentage = 1.0
 
@@ -9,10 +11,13 @@ Stop_Loss = 20
 # Take Profit (optional)
 Take_Profit = 40
 
+# Risk:Reward Ratio
+RR = 1:2
+
 # Symbol
 Symbol = EURUSD
 
-# Notes
-# - This setup risks 1% per trade
-# - Designed for intraday trading
-# - Adjust Stop_Loss based on market volatility
+# Notes:
+# - Risks 1% of account per trade
+# - Suitable for consistent growth strategy
+# - Works best in moderate volatility conditions
