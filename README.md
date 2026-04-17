@@ -50,7 +50,9 @@ It dynamically adjusts position size so that each trade risks only the specified
 
 ## 📸 Demo
 
-(Add screenshot here after running the EA)
+![MT5 EA Running](docs/screenshots/EA_running.png)
+
+*Risk Manager EA attached to EURUSD chart with Algo Trading enabled*
 
 ---
 
