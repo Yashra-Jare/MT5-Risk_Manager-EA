@@ -1,0 +1,24 @@
+# Aggressive Risk Configuration (High Risk Trading)
+
+# This setup is designed for higher returns with increased drawdown risk
+
+# Risk Configuration
+Risk_Percentage = 2.0
+
+# Stop Loss (in pips)
+Stop_Loss = 15
+
+# Take Profit (in pips)
+Take_Profit = 30
+
+# Risk:Reward Ratio
+RR = 1:2
+
+# Symbol
+Symbol = EURUSD
+
+# Notes:
+# - Risks 2% of account per trade (high risk)
+# - Suitable for experienced traders only
+# - Can lead to faster gains but also larger losses
+# - Best used in strong trending markets
