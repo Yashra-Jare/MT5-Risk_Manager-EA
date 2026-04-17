@@ -1,1 +1,21 @@
+# Low Risk Configuration (Conservative)
 
+# Risk per trade (% of account balance)
+Risk_Percentage = 0.5
+
+# Stop Loss (in pips)
+Stop_Loss = 30
+
+# Take Profit (in pips)
+Take_Profit = 60
+
+# Risk:Reward Ratio
+RR = 1:2
+
+# Symbol
+Symbol = EURUSD
+
+# Notes:
+# - Suitable for beginners or capital preservation
+# - Lower drawdown, slower growth
+# - Recommended for volatile markets
